@@ -59,7 +59,7 @@ window.birdFlap = function () {
 // Pipe Variables
 const pipes = [];
 const pipeWidth = 64;
-const pipeGap = 120;
+const pipeGap = 180;
 const pipeSpeed = 2;
 let pipeTimer = 0;
 
